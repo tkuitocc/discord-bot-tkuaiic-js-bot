@@ -1,0 +1,22 @@
+{
+  "name": "tkuaiic-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord Bot for TKUAIICxGDSCTKU",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkuaiic/discord-bot.git"
+  },
+  "author": "Johnny Yeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tkuaiic/discord-bot/issues"
+  },
+  "homepage": "https://github.com/tkuaiic/discord-bot#readme",
+  "dependencies": {
+    "firebase": "^9.12.1"
+  }
+}
