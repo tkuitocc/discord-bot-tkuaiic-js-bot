@@ -2,4 +2,4 @@
 
 This is the official repository for TKUAIIC Discord bot.
 
-Currently working in progress...
+This project has already been archived. Reason: Development and maintenance termination; EOL (end of life).
